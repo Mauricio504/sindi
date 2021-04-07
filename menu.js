@@ -56,16 +56,29 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}roletarussapac*
 
 
+☆.｡.:* ༻🎥 𝚅𝚒́𝚍𝚎𝚘 🎥༺ *:.｡.☆
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}frame* ❮sec❯ ❮reply video❯
+❁❧ *${p}mute* ❮reply video❯
+❁❧ *${p}rapidovid* ❮reply video❯
+❁❧ *${p}lentovid* ❮reply video❯
+
+
 :.｡○ ༻📷 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎 𝚏𝚘𝚝𝚘𝚜 📷༺ ○｡.:
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
-❁❧ *${p}cropimg* ❮lag❯ ❮alt❯
-❁❧ *${p}bwimg*
-❁❧ *${p}identifyimg*
-❁❧ *${p}resizeimg* ❮lag❯ ❮alt❯
-❁❧ *${p}blurimg* ❮rad❯ ❮sig❯
+❁❧ *${p}cropimg* ❮lag❯ ❮alt❯ ❮reply img❯
+❁❧ *${p}bwimg* ❮reply img❯
+❁❧ *${p}identifyimg* ❮reply img❯
+❁❧ *${p}monochromeimg* ❮reply img❯
+❁❧ *${p}resizeimg* ❮lag❯ ❮alt❯ ❮reply img❯
+❁❧ *${p}blurimg* ❮rad❯ ❮sig❯ ❮reply img❯
 ❁❧ *${p}flowerlogo* ❮txt❯
 ❁❧ *${p}matrixlogo* ❮txt❯
+❁❧ *${p}thunderlogo* ❮txt❯
+❁❧ *${p}silverplaca* ❮txt❯
+❁❧ *${p}goldplaca* ❮txt❯
 ❁❧ *${p}narutologo* ❮txt❯
 ❁❧ *${p}phlogo* ❮t1❯ | ❮t2❯
 ❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
@@ -124,6 +137,17 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}nsfwneko*
 ❁❧ *${p}nsfwtrap*
 ❁❧ *${p}nsfw* ❮1 or 0❯
+
+
+☆.｡.:* ༻🗣️ 𝚟𝚘𝚣 𝚖𝚘𝚍 🗣️༺ *:.｡.☆
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}esquilo* ❮reply audio❯
+❁❧ *${p}grave* ❮reply audio❯
+❁❧ *${p}estourar* ❮reply audio❯
+❁❧ *${p}rapidoaudio* ❮reply audio❯
+❁❧ *${p}lentoaudio* ❮reply audio❯
+❁❧ *${p}bass* ❮reply audio❯
 
 
 .•♫•♬• ༻🎵 𝙰𝚞𝚍𝚒𝚘 🎵༺ •♫•♬•
