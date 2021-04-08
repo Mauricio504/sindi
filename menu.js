@@ -63,6 +63,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}mute* ❮reply video❯
 ❁❧ *${p}rapidovid* ❮reply video❯
 ❁❧ *${p}lentovid* ❮reply video❯
+❁❧ *${p}togif* ❮reply video❯
+❁❧ *${p}resizevid* ❮lag❯ ❮alt❯ ❮reply vid❯
 
 
 :.｡○ ༻📷 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎 𝚏𝚘𝚝𝚘𝚜 📷༺ ○｡.:
