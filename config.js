@@ -4,6 +4,24 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
+const msgwelcomeimg = (numero, groupname) => {
+    return `Seja bem-vindo ${numero}\n\nEscreve ${prefix}menu para lista de comandos`
+}
+//Texto de boas vindas na imagem quando welcome esta ativado
+//Obs: não coloque o texto longo para a imagem não sumir
+
+const byemsgimg = (numero, groupname) => {
+    return `Adeus ${numero}`
+}
+//Texto de despedidas na imagem quando welcome esta ativado
+//Obs: não coloque o texto longo para a imagem não sumir
+
+const menumsgimg = (numero, groupname) => {
+    return `Seja bem-vindo ${numero}\n\nAo menu do Brizas-bot`
+}
+//Texto no menu da imagem quando welcome esta ativado
+//Obs: não coloque o texto longo para a imagem não sumir
+
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
@@ -123,6 +141,9 @@ const vcard = 'BEGIN:VCARD\n'
 
 
 // Nem ouse mexer aqui se n quiser que de erro
+exports.menumsgimg = menumsgimg
+exports.byemsgimg = byemsgimg
+exports.msgwelcomeimg = msgwelcomeimg
 exports.notregister = notregister
 exports.qnttravahardroleta = qnttravahardroleta
 exports.blockedcmdmsg = blockedcmdmsg
