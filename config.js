@@ -22,7 +22,7 @@ const menumsgimg = (numero, groupname) => {
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
+const apikeyporn = 'api key do imgbb, crie sua conta e pegue a key'
 // sua key do imgbb para ativar o antiporn
 
 const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
